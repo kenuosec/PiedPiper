@@ -1,0 +1,248 @@
+System Idle Process, Process id: 0
+System, Process id: 4
+Registry, Process id: 148
+smss.exe, Process id: 572
+csrss.exe, Process id: 800
+wininit.exe, Process id: 964
+csrss.exe, Process id: 972
+services.exe, Process id: 592
+lsass.exe, Process id: 648
+svchost.exe, Process id: 1040
+fontdrvhost.exe, Process id: 1068
+svchost.exe, Process id: 1132
+svchost.exe, Process id: 1180
+winlogon.exe, Process id: 1240
+fontdrvhost.exe, Process id: 1296
+dwm.exe, Process id: 1372
+svchost.exe, Process id: 1412
+svchost.exe, Process id: 1540
+svchost.exe, Process id: 1544
+svchost.exe, Process id: 1560
+svchost.exe, Process id: 1608
+svchost.exe, Process id: 1712
+svchost.exe, Process id: 1736
+svchost.exe, Process id: 1752
+svchost.exe, Process id: 1784
+svchost.exe, Process id: 1980
+svchost.exe, Process id: 2016
+svchost.exe, Process id: 900
+svchost.exe, Process id: 2036
+svchost.exe, Process id: 2076
+svchost.exe, Process id: 2172
+svchost.exe, Process id: 2332
+svchost.exe, Process id: 2416
+atiesrxx.exe, Process id: 2468
+amdfendrsr.exe, Process id: 2476
+svchost.exe, Process id: 2828
+svchost.exe, Process id: 2844
+svchost.exe, Process id: 2892
+svchost.exe, Process id: 2380
+svchost.exe, Process id: 2588
+svchost.exe, Process id: 2196
+svchost.exe, Process id: 2812
+svchost.exe, Process id: 2940
+atieclxx.exe, Process id: 2944
+Memory Compression, Process id: 3088
+svchost.exe, Process id: 3128
+svchost.exe, Process id: 3156
+WUDFHost.exe, Process id: 3188
+sihost.exe, Process id: 3440, exe-path: C:\WINDOWS\system32\sihost.exe
+svchost.exe, Process id: 3468, exe-path: C:\WINDOWS\system32\svchost.exe
+svchost.exe, Process id: 3532, exe-path: C:\WINDOWS\system32\svchost.exe
+svchost.exe, Process id: 3540
+taskhostw.exe, Process id: 3788, exe-path: C:\WINDOWS\system32\taskhostw.exe
+svchost.exe, Process id: 3940
+explorer.exe, Process id: 3980, exe-path: C:\WINDOWS\Explorer.EXE
+ctfmon.exe, Process id: 4008
+svchost.exe, Process id: 3572
+svchost.exe, Process id: 3932
+rundll32.exe, Process id: 4300, exe-path: C:\WINDOWS\System32\rundll32.exe
+svchost.exe, Process id: 4492, exe-path: C:\WINDOWS\system32\svchost.exe
+svchost.exe, Process id: 4724
+svchost.exe, Process id: 4772
+svchost.exe, Process id: 5004
+svchost.exe, Process id: 5012
+svchost.exe, Process id: 5020
+svchost.exe, Process id: 4564
+svchost.exe, Process id: 4124
+spoolsv.exe, Process id: 3736
+StartMenuExperienceHost.exe, Process id: 5236, exe-path: C:\WINDOWS\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+svchost.exe, Process id: 5332
+RuntimeBroker.exe, Process id: 5564, exe-path: C:\Windows\System32\RuntimeBroker.exe
+svchost.exe, Process id: 5732
+com.docker.service, Process id: 5740
+svchost.exe, Process id: 5748
+svchost.exe, Process id: 5760
+Corsair.Service.exe, Process id: 5768
+svchost.exe, Process id: 5780
+svchost.exe, Process id: 5788
+armsvc.exe, Process id: 5796
+IpOverUsbSvc.exe, Process id: 5812
+svchost.exe, Process id: 5824
+RzSDKServer.exe, Process id: 5848
+GameManagerService.exe, Process id: 5860
+RzSDKService.exe, Process id: 5880
+OfficeClickToRun.exe, Process id: 5892
+RazerCentralService.exe, Process id: 5964
+RtkAudUService64.exe, Process id: 6012
+RzKLService.exe, Process id: 6036
+svchost.exe, Process id: 6092
+svchost.exe, Process id: 5472
+THXService.exe, Process id: 4632
+dasHost.exe, Process id: 4640
+svchost.exe, Process id: 5064
+MsMpEng.exe, Process id: 4960
+TeamViewer_Service.exe, Process id: 5636
+svchost.exe, Process id: 5668
+svchost.exe, Process id: 6284
+SearchApp.exe, Process id: 6832, exe-path: C:\WINDOWS\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+svchost.exe, Process id: 6904
+SearchIndexer.exe, Process id: 7368
+svchost.exe, Process id: 7540
+RuntimeBroker.exe, Process id: 7552, exe-path: C:\Windows\System32\RuntimeBroker.exe
+WmiPrvSE.exe, Process id: 7656
+svchost.exe, Process id: 7784
+WmiPrvSE.exe, Process id: 7860
+svchost.exe, Process id: 8064
+YourPhone.exe, Process id: 7856, exe-path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.21042.137.0_x64__8wekyb3d8bbwe\YourPhone.exe
+SettingSyncHost.exe, Process id: 8080, exe-path: C:\WINDOWS\system32\SettingSyncHost.exe
+dasHost.exe, Process id: 8672
+Corsair.Service.CpuIdRemote64.exe, Process id: 8860
+conhost.exe, Process id: 8868
+Razer Synapse Service.exe, Process id: 9140
+NisSrv.exe, Process id: 8640
+Corsair.Service.DisplayAdapter.exe, Process id: 1364
+conhost.exe, Process id: 4452
+svchost.exe, Process id: 9620
+svchost.exe, Process id: 9696
+RuntimeBroker.exe, Process id: 9732, exe-path: C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker.exe, Process id: 10152, exe-path: C:\Windows\System32\RuntimeBroker.exe
+dllhost.exe, Process id: 10196
+SecurityHealthSystray.exe, Process id: 828, exe-path: C:\Windows\System32\SecurityHealthSystray.exe
+SecurityHealthService.exe, Process id: 5984
+vgtray.exe, Process id: 5676, exe-path: C:\Program Files\Riot Vanguard\vgtray.exe
+THXHelper22AD.exe, Process id: 3700, exe-path: C:\Program Files (x86)\Razer\THXVAD\Drivers\x64\THXHelper22AD.exe
+THXHelper051A.exe, Process id: 9320, exe-path: C:\Program Files (x86)\Razer\APO051aDrv\Drivers\x64\THXHelper051A.exe
+RtkAudUService64.exe, Process id: 9212, exe-path: C:\Windows\System32\RtkAudUService64.exe
+Razer Synapse 3.exe, Process id: 9832, exe-path: C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe
+svchost.exe, Process id: 9268
+AppleMobileDeviceProcess.exe, Process id: 5872, exe-path: C:\Program Files\WindowsApps\AppleInc.iTunes_12113.17.53090.0_x64__nzyj5cx40ttqa\AMDS64\AppleMobileDeviceProcess.exe
+iCloudServices.exe, Process id: 6968, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\iCloudServices.exe
+APSDaemon.exe, Process id: 10092, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\APSDaemon.exe
+iCloudDrive.exe, Process id: 10120, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\iCloudDrive.exe
+RadeonSoftware.exe, Process id: 10360, exe-path: C:\Program Files\AMD\CNext\CNext\Radeonsoftware.exe
+iCloudPhotos.exe, Process id: 10432, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\iCloudPhotos.exe
+Razer Central.exe, Process id: 10440, exe-path: C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central.exe
+cpumetricsserver.exe, Process id: 10688
+CefSharp.BrowserSubprocess.exe, Process id: 10800, exe-path: C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+Razer Synapse Service Process.exe, Process id: 10924, exe-path: C:\Program Files (x86)\Razer\Synapse3\Service\..\UserProcess\Razer Synapse Service Process.exe
+svchost.exe, Process id: 9940
+ApplePhotoStreams.exe, Process id: 10644, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\ApplePhotoStreams.exe
+Cortana.exe, Process id: 11424, exe-path: C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_3.2105.19601.0_x64__8wekyb3d8bbwe\Cortana.exe
+CefSharp.BrowserSubprocess.exe, Process id: 11524, exe-path: C:\Program Files (x86)\Razer\Razer Services\Razer Central\CefSharp.BrowserSubprocess.exe
+FacebookGameroom.exe, Process id: 11752, exe-path: C:\Users\User\AppData\Local\Facebook\Games\FacebookGameroom.exe
+RuntimeBroker.exe, Process id: 11780, exe-path: C:\Windows\System32\RuntimeBroker.exe
+svchost.exe, Process id: 11936, exe-path: C:\WINDOWS\system32\svchost.exe
+RzSynapse.exe, Process id: 11944, exe-path: C:\Program Files (x86)\Razer\Synapse\RzSynapse.exe
+svchost.exe, Process id: 11980
+svchost.exe, Process id: 11436
+iCUE.exe, Process id: 12428, exe-path: C:\Program Files (x86)\Corsair\CORSAIR iCUE Software\iCUE.exe
+jusched.exe, Process id: 12436, exe-path: C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+svchost.exe, Process id: 12552
+cncmd.exe, Process id: 13000, exe-path: C:\Program Files\AMD\CNext\CNext\cncmd.exe
+AMDRSServ.exe, Process id: 13296
+svchost.exe, Process id: 3656, exe-path: C:\WINDOWS\System32\svchost.exe
+RazerCortex.exe, Process id: 2872
+CefSharp.BrowserSubprocess.exe, Process id: 13384
+amdow.exe, Process id: 13976
+PMRunner32.exe, Process id: 14268
+PMRunner64.exe, Process id: 11300
+FPSRunner32.exe, Process id: 2980
+FPSRunner64.exe, Process id: 2340
+secd.exe, Process id: 12232, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\secd.exe
+ApplicationFrameHost.exe, Process id: 1616, exe-path: C:\WINDOWS\system32\ApplicationFrameHost.exe
+WinStore.App.exe, Process id: 14140, exe-path: C:\Program Files\WindowsApps\Microsoft.WindowsStore_12104.1001.1.0_x64__8wekyb3d8bbwe\WinStore.App.exe
+RuntimeBroker.exe, Process id: 6080, exe-path: C:\Windows\System32\RuntimeBroker.exe
+svchost.exe, Process id: 11240
+CefSharp.BrowserSubprocess.exe, Process id: 1572, exe-path: C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\CefSharp.BrowserSubprocess.exe
+CefSharp.BrowserSubprocess.exe, Process id: 1420, exe-path: C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\CefSharp.BrowserSubprocess.exe
+Facebook Gameroom Browser.exe, Process id: 11168, exe-path: C:\Users\User\AppData\Local\Facebook\Games\Facebook Gameroom Browser.exe
+svchost.exe, Process id: 1816
+SgrmBroker.exe, Process id: 9764
+svchost.exe, Process id: 13824
+svchost.exe, Process id: 15068
+svchost.exe, Process id: 10144
+jucheck.exe, Process id: 14496, exe-path: C:\Program Files (x86)\Common Files\Java\Java Update\jucheck.exe
+AMDRSSrcExt.exe, Process id: 3820, exe-path: C:\Program Files\AMD\CNext\CNext\AMDRSSrcExt.exe
+dllhost.exe, Process id: 12420, exe-path: C:\WINDOWS\system32\DllHost.exe
+GameBar.exe, Process id: 4468, exe-path: C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.621.4222.0_x64__8wekyb3d8bbwe\GameBar.exe
+Video.UI.exe, Process id: 2280, exe-path: C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.21021.10311.0_x64__8wekyb3d8bbwe\Video.UI.exe
+GameBarFTServer.exe, Process id: 10140, exe-path: C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.621.4222.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe
+RuntimeBroker.exe, Process id: 4524, exe-path: C:\Windows\System32\RuntimeBroker.exe
+RuntimeBroker.exe, Process id: 10040, exe-path: C:\Windows\System32\RuntimeBroker.exe
+svchost.exe, Process id: 4196
+chrome.exe, Process id: 4428, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 10956, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 13232, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 4628, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 14968, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 10036, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 9280, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 3020, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 9808, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 14592, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 11804, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 2168, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 560, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 12644, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 4348, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+cmd.exe, Process id: 312, exe-path: C:\WINDOWS\system32\cmd.exe
+conhost.exe, Process id: 13420, exe-path: C:\WINDOWS\system32\conhost.exe
+iCloudChrome.exe, Process id: 9112, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\iCloudChrome.exe
+cmd.exe, Process id: 4424, exe-path: C:\WINDOWS\system32\cmd.exe
+conhost.exe, Process id: 14832, exe-path: C:\WINDOWS\system32\conhost.exe
+ChromePwdMgrHostApp.exe, Process id: 13916, exe-path: C:\Program Files\WindowsApps\AppleInc.iCloud_12.3.74.0_x86__nzyj5cx40ttqa\iCloud\ChromePwdMgrHostApp.exe
+chrome.exe, Process id: 7820, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+WINWORD.EXE, Process id: 4604, exe-path: C:\Program Files\Microsoft Office\Root\Office16\WINWORD.EXE
+TextInputHost.exe, Process id: 13260, exe-path: C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\InputApp\TextInputHost.exe
+chrome.exe, Process id: 16180, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+ShellExperienceHost.exe, Process id: 10208, exe-path: C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+audiodg.exe, Process id: 16292
+RuntimeBroker.exe, Process id: 16264, exe-path: C:\Windows\System32\RuntimeBroker.exe
+dllhost.exe, Process id: 16632, exe-path: C:\WINDOWS\system32\DllHost.exe
+iTunes.exe, Process id: 16720, exe-path: C:\Program Files\WindowsApps\AppleInc.iTunes_12113.17.53090.0_x64__nzyj5cx40ttqa\iTunes.exe
+RuntimeBroker.exe, Process id: 16896, exe-path: C:\Windows\System32\RuntimeBroker.exe
+AppleMobileDeviceHelper.exe, Process id: 16940, exe-path: C:\Program Files\WindowsApps\AppleInc.iTunes_12113.17.53090.0_x64__nzyj5cx40ttqa\AMDS32\AppleMobileDeviceHelper.exe
+conhost.exe, Process id: 16948, exe-path: C:\WINDOWS\system32\conhost.exe
+distnoted.exe, Process id: 17000, exe-path: C:\Program Files\WindowsApps\AppleInc.iTunes_12113.17.53090.0_x64__nzyj5cx40ttqa\VFS\ProgramFilesCommonX86\Apple\Apple Application Support\distnoted.exe
+conhost.exe, Process id: 17024, exe-path: C:\WINDOWS\system32\conhost.exe
+RuntimeBroker.exe, Process id: 18920, exe-path: C:\Windows\System32\RuntimeBroker.exe
+chrome.exe, Process id: 3948, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 15552, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+WUDFHost.exe, Process id: 15876
+Calculator.exe, Process id: 18940, exe-path: C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe\Calculator.exe
+RuntimeBroker.exe, Process id: 19328, exe-path: C:\Windows\System32\RuntimeBroker.exe
+pycharm64.exe, Process id: 19216, exe-path: C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin\pycharm64.exe
+fsnotifier64.exe, Process id: 17868, exe-path: C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.3\bin\fsnotifier64.exe
+conhost.exe, Process id: 16492, exe-path: C:\WINDOWS\system32\conhost.exe
+smartscreen.exe, Process id: 6064, exe-path: C:\Windows\System32\smartscreen.exe
+svchost.exe, Process id: 6232, exe-path: C:\WINDOWS\system32\svchost.exe
+printfilterpipelinesvc.exe, Process id: 18184
+svchost.exe, Process id: 18400
+svchost.exe, Process id: 3172
+python.exe, Process id: 10508, exe-path: C:\Users\User\AppData\Local\Programs\Python\Python37\python.exe
+conhost.exe, Process id: 15720, exe-path: C:\WINDOWS\system32\conhost.exe
+python.exe, Process id: 18312, exe-path: C:\Users\User\AppData\Local\Programs\Python\Python37\python.exe
+conhost.exe, Process id: 16108, exe-path: C:\WINDOWS\system32\conhost.exe
+python.exe, Process id: 16236, exe-path: C:\Users\User\AppData\Local\Programs\Python\Python37\python.exe
+conhost.exe, Process id: 17952, exe-path: C:\WINDOWS\system32\conhost.exe
+svchost.exe, Process id: 15980
+svchost.exe, Process id: 16280
+SearchProtocolHost.exe, Process id: 8168, exe-path: C:\WINDOWS\system32\SearchProtocolHost.exe
+SearchFilterHost.exe, Process id: 16976
+SearchProtocolHost.exe, Process id: 11712
+chrome.exe, Process id: 19124, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+chrome.exe, Process id: 16144, exe-path: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+LockApp.exe, Process id: 14632, exe-path: C:\WINDOWS\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+RuntimeBroker.exe, Process id: 17644, exe-path: C:\Windows\System32\RuntimeBroker.exe
+svchost.exe, Process id: 17740

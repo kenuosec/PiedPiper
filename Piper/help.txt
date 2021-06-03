@@ -1,0 +1,29 @@
+Stream Camera - live streams the victims camera, press ESC to stop
+Stream Screen - live streams the victims screen, press ESC to stop
+
+Import Keyboard Input - imports the keys the victim pressed which was collected by us
+
+Import Chrome History - imports the surfing history that chrome collected on the victim
+
+Collect Chrome Data - collects all the saved usernames and password to sites, after chrome version 80
+
+Show Active Processes - Shows the running processes on the victims PC
+
+Copy File - Copy a file from the victim's PC
+
+Pop Up - popping up a warning message as you wish, the user read those!
+
+Open Website - popping up a website you wish in the victim PC.
+
+Block Site - Blocks the victim from communicating with a site
+Release Blocked Site (or all) - Allows the victim to communicate
+
+Kill Process - ends a specific process by his name in the victim pc,
+all processes with the same name will be killed.
+
+Add Desktop Goose - run a desktop trojan goose which annoy the user.
+Kill Desktop Geese - ends the life of the geese generated
+
+Lock Screen - Locks victim screen
+
+Freeze Mouse and Keyboard - Blocks or unblocks the input, except of ctrl+alt+del
